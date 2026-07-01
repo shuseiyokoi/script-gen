@@ -1,0 +1,8 @@
+.venv/
+.llama.cpp/
+.llama.cpp-bin/
+output/
+.env
+__pycache__/
+*.pyc
+*.bak
